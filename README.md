@@ -1,2 +1,0 @@
-# Equal
-equal.in
